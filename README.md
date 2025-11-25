@@ -1,7 +1,7 @@
 # IR Lightswitch 
 IR Lightswitch to control my LED lights in the kitchen
-![test1](https://github.com/user-attachments/assets/814bfff3-5f91-47ee-ab88-4fc2a37f0402)
 
+<img src="https://github.com/user-attachments/assets/814bfff3-5f91-47ee-ab88-4fc2a37f0402" width="200" />
 
 Currently, the IR remote that came with the LED strip I have isn't easy to click.
 
