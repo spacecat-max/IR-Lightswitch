@@ -1,22 +1,20 @@
 # IR Lightswitch 
-IR Lightswitch to control my LED lights in the kitchen
+IR Lightswitch to control my LED lights in the kitchen.
 
 <img src="https://github.com/user-attachments/assets/814bfff3-5f91-47ee-ab88-4fc2a37f0402" width="200" />
 
-Currently, the IR remote that came with the LED strip I have isn't easy to click.
-
-## What I learned so far:
-- Operating rate (eg 8 MHz vs 16 MHz) of the arduino trinket is important for the data to be transmitted correctly
-- Arduino Trinkets can be programmed using another arduino via ISP because the USB programming is finicky 
-- 2 IR LEDs reach futher than 1 (bc of positive interference lollll)
-
-## Task List:\
+## Task List:
 [X] Read the on/off IR codes from the LED IR remote\
 [X] Test circuit and if codes are correct with LED strip\
 [X] Upload onto Arduino trinket\
 [X] Document circuit design\
 [X] Upload code to github\
 [ ] Design enclosure to switch
+
+## What I learned so far:
+- Operating rate (eg 8 MHz vs 16 MHz) of the arduino trinket is important for the data to be transmitted correctly
+- Arduino Trinkets can be programmed using another arduino via ISP because the USB programming is finicky 
+- 2 IR LEDs reach futher than 1 (bc of positive interference lollll)
 
 ## Code Files
 read_IR_remote: Start here! Code that reads the hex code your LED strip remote sends and determine the protocal it was sent by. You will need a IR receiver.
