@@ -1,7 +1,6 @@
 # IR Lightswitch 
 IR Lightswitch to control my LED lights in the kitchen.
-
-<img src="https://github.com/user-attachments/assets/814bfff3-5f91-47ee-ab88-4fc2a37f0402" width="200" />
+![button_press](https://github.com/user-attachments/assets/7a8efe88-8d43-4bb9-b845-c3a065014746)
 
 ## Task List:
 [X] Read the on/off IR codes from the LED IR remote\
