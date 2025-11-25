@@ -9,9 +9,9 @@ What I learned so far:
 - 2 IR LEDs reach futher than 1 (bc of positive interference lollll)
 
 Basic To Do:
-[X] Read the on/off IR codes from the LED IR remote 
-[X] Test circuit and if codes are correct with LED strip
-[X] Upload onto Arduino trinket 
-[ ] Document circuit design 
-[ ] Upload code to github
-[ ] Design enclosure to switch
+[X] Read the on/off IR codes from the LED IR remote__
+[X] Test circuit and if codes are correct with LED strip__
+[X] Upload onto Arduino trinket__
+[ ] Document circuit design__
+[X] Upload code to github__
+[ ] Design enclosure to switch__
